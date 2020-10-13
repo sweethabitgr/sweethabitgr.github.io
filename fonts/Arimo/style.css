@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Arimo';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/trifw/OneDrive/Documents/CODE/Web/sweethabit/fonts/Arimo/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Arimo';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/trifw/OneDrive/Documents/CODE/Web/sweethabit/fonts/Arimo/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Arimo';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/trifw/OneDrive/Documents/CODE/Web/sweethabit/fonts/Arimo/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Arimo';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/trifw/OneDrive/Documents/CODE/Web/sweethabit/fonts/Arimo/700italic.ttf') format('truetype');
+}
